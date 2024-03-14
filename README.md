@@ -12,6 +12,3 @@ This script introduces a roleplay and arcade-style method for breaking free from
 # Installation 📖
 
 Simply drag and drop the resource in your resource folder and `ensure` it in your resources.cfg or server.cfg
-
-# Join the discord
-https://discord.gg/ey9UwJCP
