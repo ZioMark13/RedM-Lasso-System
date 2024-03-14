@@ -1,4 +1,4 @@
-# RedM-Lasso-System
+# RedM-Lasso-System for REDM
 Implement a system with mini-game checks to enable players to escape from the lasso.
 
 This is a simple but awesome resource for roleplay servers. The original method of freeing yourself from the lasso in RedM is unrealistic.
